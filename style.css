@@ -3,18 +3,17 @@ body{
     text-align: left;
     color: #191919;
     font-size: medium;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 h2{
     text-indent: 20px;
     color:#F15025;
 }
+
 div.box{
     margin: 0%;
-    padding: 100px;
+    padding: 5%;
     height: 100%;
-    width: 100%;
+    width: 100vh;
 }
 
 div#title{
