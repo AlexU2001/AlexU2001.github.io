@@ -35,6 +35,21 @@ button {
 color: var(--link);
 }
 
+a:link{
+    color: var(--link);
+    text-decoration: none;
+}
+
+a:visited{
+    color: var(--linkUsed);
+    text-decoration: none;
+}
+
+a:active{
+    color: var(--linkActive);
+    text-decoration: underline;
+}
+
 /*
     --yellow: #ffe55b;
     --red: #ff5564;

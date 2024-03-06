@@ -40,16 +40,16 @@ h1 {
     list-style-type: none;
 }
 
-p {
-    text-align: center;
-}
-
 h1 {
     font-size: 24px;
 }
 
+h2{
+    text-indent: 10px;
+}
+
 p {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 footer {
