@@ -1,4 +1,8 @@
+html {
+    height: 100%;
+}
 body{
+    min-height: 100%;
     background: #CED0CE;
     text-align: left;
     color: #191919;
@@ -8,12 +12,11 @@ h2{
     text-indent: 20px;
     color:#F15025;
 }
-
 div.box{
     margin: 0%;
     padding: 5%;
     height: fit-content;
-    width: 100vw;
+    width: 100%;
 }
 
 div#title{
