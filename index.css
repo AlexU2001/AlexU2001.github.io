@@ -14,12 +14,12 @@ h1, p {
 
 .item {
     background: var(--item);
-    color: var(--navbar);
+    color: var(--texth1);
 }
 
 button {
-    background: var(--red);
-    color: var(--navbar);
+    background: var(--button);
+    color: var(--texth1);
 }
 
 .box{
@@ -29,6 +29,10 @@ button {
 .featured {
      --yellow: #ffe55b;
     --red: #ff5564;   
+}
+
+#highlight{
+color: var(--link);
 }
 
 /*

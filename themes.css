@@ -18,4 +18,6 @@
     --linkUsed: #3C3744;
     
     --button: #46ACC2;
+
+    --footer: var(--link);
 }
