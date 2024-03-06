@@ -8,6 +8,10 @@ h1, p {
     color: var(--texth1);
 }
 
+h2{
+    color: var(--texth2);
+}
+
 #navbar a {
     color: var(--navbar);
 }
