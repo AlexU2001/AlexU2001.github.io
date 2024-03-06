@@ -1,0 +1,21 @@
+:root{
+    --headerBG: #191919;
+    --background: #498C8A;
+    --textWhite: #E3E3E3;
+    --textBlack: #191919;
+
+    --navbar:#F15025;
+
+    --texth1:#FFFFFA;
+    --texth2:#FFFFFA;
+    --texth3:#FFFFFA;
+    --texth4:#FFFFFA;
+
+    --item: #E3E3E3;
+    
+    --link: #F15025;
+    --linkActive: red;
+    --linkUsed: #3C3744;
+    
+    --button: #46ACC2;
+}
