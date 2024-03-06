@@ -1,21 +1,27 @@
 body{
-    margin: 5;
-    background: darkblue;
+    background: #CED0CE;
     text-align: left;
-    color:aliceblue
+    color: #191919;
+    font-size: medium;
+    padding-left: 50px;
+    padding-right: 50px;
 }
-h1{
-    color:aqua
-    text-align
+h2{
+    text-indent: 20px;
+    color:#F15025;
 }
-div.content{
-    height: 300px;
-    width: 300px;
-    border:5px solid #833434;
-    margin: 20px;
-    float:left;
+div.box{
+    margin: 0%;
+    padding: 100px;
+    height: 100%;
+    width: 100%;
 }
 
-div#first{
-    background-color: red;
+div#title{
+    color:#FFFFFF;
+    background-color: #191919;
+}
+div#regular{
+    color:#191919;
+    background-color: #FFFFFF;
 }
