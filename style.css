@@ -32,10 +32,7 @@ div.content{
 
 img{
     width: 320px;
-    height: 180px;
-    margin-right: 20px;
-    margin-left: 20px;
-    float: left;
+    height: auto;
 }
 div#title{
     color:#FFFFFF;
