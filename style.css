@@ -20,6 +20,16 @@ div.box{
     box-sizing: border-box;
 }
 
+div.content{
+    border: #191919 solid;
+    background-color: #F15025;
+    float: left;
+    width: 320px;
+    height: 180px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
 div#title{
     color:#FFFFFF;
     background-color: #191919;
