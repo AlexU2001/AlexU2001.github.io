@@ -30,6 +30,13 @@ div.content{
     margin-left: 20px;
 }
 
+img.content{
+    width: 320px;
+    height: 180px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+}
 div#title{
     color:#FFFFFF;
     background-color: #191919;
@@ -39,13 +46,16 @@ div#regular{
     background-color: #FFFFFF;
 }
 a:link{
+    text-decoration: none;
     color:#F15025
 }
 
 a:visited{
     color:#8E6C88;
+    text-decoration: none;
 }
 
 a:hover,a:active{
-    color:red;
+    text-decoration: underline;
+    color:#F15025;
 }
