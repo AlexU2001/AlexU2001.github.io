@@ -17,6 +17,7 @@ div.box{
     padding: 5%;
     height: fit-content;
     width: 100%;
+    box-sizing: border-box;
 }
 
 div#title{
@@ -26,4 +27,15 @@ div#title{
 div#regular{
     color:#191919;
     background-color: #FFFFFF;
+}
+a:link{
+    color:#F15025
+}
+
+a:visited{
+    color:#8E6C88;
+}
+
+a:hover,a:active{
+    color:red;
 }
