@@ -54,6 +54,10 @@ a:active{
     text-decoration: underline;
 }
 
+.absolute{
+    position: absolute;
+}
+
 /*
     --yellow: #ffe55b;
     --red: #ff5564;
