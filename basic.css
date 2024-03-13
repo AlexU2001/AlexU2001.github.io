@@ -27,8 +27,8 @@ h1 {
 
 .grid {
     display: grid;
-    grid-template-columns: 240px 240px 240px;
-    grid-auto-rows: 180px;
+    grid-template-columns: 32vw 32vw 32vw;
+    grid-auto-rows: 18vw;
     grid-gap: 10px;
     justify-content: center;
 }
